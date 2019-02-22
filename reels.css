@@ -1,0 +1,33 @@
+
+h1{
+  color:red;
+}
+}
+ul{
+  font-family:sans-serif;
+}
+body{
+  background-image: url('images/kevin.jpg');
+background-size: cover;
+position: relative;
+    background-repeat:no-repeat;
+    background-size:100% 120vh;
+    border-image-width: auto;
+}
+.container,
+ul
+{
+  background-color: powderblue;
+  background-size: contain;
+  opacity:0.7;
+  display: block;
+}
+
+.container{
+  height: 90px;
+}
+
+h1{
+  text-align: center;
+  padding: 20px;
+}
