@@ -7,7 +7,7 @@ ul{
   font-family:sans-serif;
 }
 body{
-  background-image: url('images/kevin.jpg');
+  background-image: url('file:///C:/Users/bschwartz/Desktop/Kevin/kevin/images/kevin.jpg');
 background-size: cover;
 position: relative;
     background-repeat:no-repeat;
